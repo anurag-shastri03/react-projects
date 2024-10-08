@@ -1,0 +1,2 @@
+In this website we have created a password generator website using react where we have used 
+hooks (useState, useEffect, useRef, useCallback) these hooks give more functionalities to the code.
